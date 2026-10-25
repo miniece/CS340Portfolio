@@ -5,7 +5,7 @@ A full stack web application dashboard built for Grazioso Salvare, a company tha
 ## Artifacts
 
 - `ProjectTwoDashboard.ipynb` — the dashboard application
-- `CRUD_Python_Module.py` — reusable CRUD module for MongoDB
+- `CRUD_Python_Module(3).py` — reusable CRUD module for MongoDB
 - `README.docx` — full project documentation with execution screenshots
 
 ## Reflection
